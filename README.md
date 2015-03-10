@@ -1,4 +1,4 @@
-# teaching_material
+# Introduction à Python
 
 Supports de cours en Français : 
 
